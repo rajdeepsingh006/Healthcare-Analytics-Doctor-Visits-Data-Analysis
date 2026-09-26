@@ -1,4 +1,4 @@
-## Healthcare Analytics - Doctor Visits Data Analysis
+# Healthcare Analytics - Doctor Visits Data Analysis
 
 This project performs an exploratory data analysis (EDA) on a doctor visits dataset to uncover insights and key patterns related to healthcare utilization. The analysis examines the relationships between demographics, health status, insurance types, and the frequency of doctor visits.
 
